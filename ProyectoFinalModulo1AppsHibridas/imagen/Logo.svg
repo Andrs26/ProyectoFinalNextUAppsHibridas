@@ -1,0 +1,30 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g stroke="null" style="vector-effect: non-scaling-stroke;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g stroke="null" id="svg_18">
+   <g stroke="null" transform="matrix(2.197176975335464,0,0,1.6050862785061255,-11783.316123259927,-5900.388955494256) " id="svg_15">
+    <title stroke="null" transform="translate(-14.335516929626465,-5.015246391296387) translate(-7.7396769523620605,-2.674452066421509) translate(-48.46225357055664,-16.859922409057617) translate(1.794898271560669,-4.214980602264404) translate(19.246109008789062,17.259613037109375) translate(67.36138153076172,34.51922607421875) translate(5197.52490234375,0) translate(0,3584.5) ">background</title>
+    <rect stroke="null" x="5214.389844" y="3606.514238" width="582" height="402" id="svg_13" fill="#fff"/>
+    <g stroke="null" id="svg_12" display="none">
+     <rect stroke="null" id="svg_16" width="580" height="400" x="5215.389844" y="3607.514238" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(2.197176975335464,0,0,1.6050862785061255,-11783.316123259927,-5900.388955494256) " id="svg_17">
+    <title stroke="null" transform="translate(-14.335516929626465,-5.015246391296387) translate(-7.7396769523620605,-2.674452066421509) translate(-48.46225357055664,-16.859922409057617) translate(1.794898271560669,-4.214980602264404) translate(19.246109008789062,17.259613037109375) translate(67.36138153076172,34.51922607421875) translate(5197.52490234375,0) translate(0,3584.5) ">Layer 1</title>
+    <ellipse stroke="#000" fill="#fff" stroke-width="1.5" cx="5495.889844" cy="3800.014238" id="svg_11" rx="118" ry="118"/>
+    <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1322.270091" y="894.711715" id="svg_10" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(4.824486657784716,0,0,4.699900875685329,-963.0935397357972,-396.8153405571155) ">AR</text>
+    <text stroke="#000" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="3189.862309" y="1674.706981" id="svg_9" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1.7685519122404685,0,0,2.4450816214084625,-227.9085281516489,-237.9758582036011) ">DESIGN</text>
+   </g>
+  </g>
+ </g>
+</svg>
